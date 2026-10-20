@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **CivicMinds** · Team ID `VTU-QFF-HC-0064` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#CivicMinds)
+[⬆ Back to Top](#civicminds)
 
 </div>
